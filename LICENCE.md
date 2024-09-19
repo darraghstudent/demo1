@@ -1,1 +1,1 @@
-this is the MIT licence
+this is the MIT licence for 2k
