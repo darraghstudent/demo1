@@ -9,3 +9,5 @@ adding more code
 wireframe created
 
 messaging app created
+
+database schema created
