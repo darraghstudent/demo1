@@ -11,3 +11,5 @@ wireframe created
 messaging app created
 
 database schema created
+
+contact list added
